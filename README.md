@@ -33,7 +33,7 @@ Run the game and set the following graphics options:
 
 ___Installation
 
-• Copy the contents of the Fix folder to your No Man's Sky\Binaries folder ( e.g. C:\games\steam\steamapps\common\No Man's Sky\Binaries ) where NMS.exe is found.
+• Copy the contents of this fix to your No Man's Sky\Binaries folder ( e.g. C:\games\steam\steamapps\common\No Man's Sky\Binaries ) where NMS.exe is found.
 
 • Vk3DVision.ini ( located in the Vk3DVision folder ) is configured for 3DVision DX11 mode. Change the Stereo3DViewMode setting according to your hardware.
 
